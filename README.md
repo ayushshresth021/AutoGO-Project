@@ -94,4 +94,3 @@ To contribute to this project, simply clone the repository and make changes to t
 ### Contact
 Ayush Shresth: https://github.com/ayushshresth021
 
-### Acknowledgements
